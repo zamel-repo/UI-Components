@@ -1,4 +1,11 @@
 # Ui
+<img width="1876" height="868" alt="image" src="https://github.com/user-attachments/assets/608d85c5-1b14-4a21-a6ca-f03bbd0d6356" />
+<img width="1901" height="1078" alt="image" src="https://github.com/user-attachments/assets/a2284df2-ada3-4fa1-bf91-7872b2aeb2a0" />
+<img width="1895" height="1078" alt="image" src="https://github.com/user-attachments/assets/212a1f4f-c7fe-44b2-a87c-c490df44cb0c" />
+<img width="1896" height="1077" alt="image" src="https://github.com/user-attachments/assets/c08866d6-9a11-4f0c-aa2c-6e1e73a6f9ec" />
+<img width="1897" height="1077" alt="image" src="https://github.com/user-attachments/assets/4418ce7d-881e-43a7-ad9e-e798ae4eed11" />
+<img width="1895" height="1075" alt="image" src="https://github.com/user-attachments/assets/4ec22f1e-b02e-46d5-ba2c-b59962ecce34" />
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.4.
 
